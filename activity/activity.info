@@ -1,0 +1,8 @@
+[Activity]
+name = Jam Game Boy Advance
+activity_version = 2
+service_name = org.ceibaljam.JamGBA
+class = jamgba.JamGBA
+icon = jamgba
+mime_types = .gba 
+
